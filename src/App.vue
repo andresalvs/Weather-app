@@ -86,6 +86,11 @@
       </v-row>
     </v-container>
   </v-app>
+
+  <footer style="background-color: indigo; color: white; text-align: center; padding: 20px;">
+    Developed by: <a href="https://www.instagram.com/andreeeofficial/" style="color: white; text-decoration: none;"> <b>Andre Salvador</b> </a>
+    </footer>
+
 </template>
 
 <script>
